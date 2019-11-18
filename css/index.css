@@ -1,8 +1,8 @@
 .button{
   position: relative;
   float: left;
-  background-color: blue;
+  margin: 4em;
 }
 p {
-  background-color: blue;
+  float: none;
 }
